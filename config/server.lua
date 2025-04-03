@@ -8,7 +8,7 @@ return {
         -- What logging service do you want to use?
         -- Available options: 'fivemanage', 'fivemerr', 'discord' & 'none'
         -- It is highly recommended to use a proper logging service such as Fivemanage or Fivemerr
-        service = 'none',
+        service = 'fivemanage',
         -- Do you want to include screenshots with your logs?
         -- This is only applicable to Fivemanage and Fivemerr
         screenshots = false,

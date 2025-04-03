@@ -38,6 +38,6 @@ return {
     -- This shows the top 10 miners by XP
     -- 🗒️ Note: the leaderboard is not updated constantly
     -- It is only updated on server restarts & player logouts
-    leaderboard = true
+    leaderboard = false
 
 }
